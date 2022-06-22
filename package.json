@@ -1,0 +1,27 @@
+{
+  "name": "discordjs-welcome",
+  "version": "1.0.0",
+  "description": "Discord welcome bot using DiscordJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGGGame/discordjs-welcome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGGGame/discordjs-welcome/issues"
+  },
+  "homepage": "https://github.com/GGGGame/discordjs-welcome#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
+}
